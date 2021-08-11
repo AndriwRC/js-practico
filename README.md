@@ -17,3 +17,6 @@
 - Segundo paso: implementar las fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
+
+## Taller #4: analisis salarial
+Aplicación de los conocimientos adquiridos en los anteriores talleres, implementando una análisis de 20 salarios hipotéticos en un país.
